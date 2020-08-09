@@ -15,6 +15,12 @@ There're some dots to show how many questions answered, which also shows correct
 If user choose the wrong answer, then the time will penalize ten seconds.<br>
 At the end, user can see their score, and save it.
 
+## Output
+<img src="./Asset/start.png" width="750">
+<img src="./Asset/quiz-qs.png " width="750">
+<img src="./Asset/time-limit.png " width="750">
+<img src="./Asset/save-name.png " width="750">
+<img src="./Asset/results.png" width="750">
 
 
 # 04 Web APIs: Code Quiz
