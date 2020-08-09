@@ -1,3 +1,22 @@
+## Student name: 
+Qian Hu
+
+## Instructor: 
+Emmanuel Jucaban
+
+## Github links:
+https://github.com/huqian301/quiz_app <br>
+https://huqian301.github.io/quiz_app/
+
+## Project description: 
+In this project, I create a quiz project for user to test their Js skills.<br>
+User needs to answer all the question by limited time.<br>
+There're some dots to show how many questions answered, which also shows correct or wrong.<br>
+If user choose the wrong answer, then the time will penalize ten seconds.<br>
+At the end, user can see their score, and save it.
+
+
+
 # 04 Web APIs: Code Quiz
 
 As you proceed in your career as a web developer, you will probably be asked to complete a coding assessment, which is typically a combination of multiple-choice questions and interactive challenges. Build a timed code quiz with multiple-choice questions. This app will run in the browser and feature dynamically updated HTML and CSS powered by your JavaScript code. It will also feature a clean and polished user interface and be responsive, ensuring that it adapts to multiple screen sizes.
